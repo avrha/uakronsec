@@ -13,3 +13,16 @@ The current website used for the www.uakronsec.com domain.
 3. Contact Information
 - [Core Developers](#Core-Developers)
 - [Discord Server](#Discord-Server)
+
+## Getting Started
+Our tech stack is simple, so setting up a development environment is quick and easy. Please refer to the documentation below for more detail.
+
+### Prerequisites 
+Front-end:
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+Back-end:
+- TBA
