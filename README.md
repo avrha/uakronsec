@@ -26,3 +26,6 @@ Front-end:
 
 Back-end:
 - TBA
+
+### Install and Run
+Our text editor of choice is Microsoft's [Visual Studio Code](https://code.visualstudio.com/). When in VS Code, install the recommended extensions for our tech stack and run the website locally in a browser.
