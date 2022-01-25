@@ -22,10 +22,19 @@ Front-end:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Bootstrap](https://getbootstrap.com/)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Back-end:
 - TBA
 
 ### Install and Run
 Our text editor of choice is Microsoft's [Visual Studio Code](https://code.visualstudio.com/). When in VS Code, install the recommended extensions for our tech stack and run the website locally in a browser.
+
+### Core Developers
+[avrha](https://github.com/avrha) and [Cybersecuredabag](https://github.com/Cybersecuredabag) are the core developers of the project.
+
+For any questions or concerns about uakronsec, please email uakronsecadmins@uakron.edu, either one of us will reply.
+
+### Discord Server
+Meet and collaborate with other developers building www.uakronsec.com in our discord server.
+
