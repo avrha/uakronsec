@@ -1,6 +1,6 @@
 # uakronsec
 
-A website for everything cyber security at University of Akron. The development is student lead and is the university's first open source project. The domain tied to the website: www.uakronsec.com.  
+A website for everything cyber security at University of Akron. The development is student led and is the university's first open source project. The domain tied to the website is www.uakronsec.com.  
 
 ## Documentation 
 - [Issue Template](https://github.com/avrha/uakronsec/blob/main/docs/ISSUE_TEMPLATE/bug_report.md)
