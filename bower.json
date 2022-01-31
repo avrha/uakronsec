@@ -1,0 +1,22 @@
+{
+  "name": "argon-design-system-free",
+  "homepage": "http://www.uakronsec.com/",
+  "authors": [
+      "Joey Ferenchak < Brendan Glancy < Cybersecuredabag"
+  ],
+  "description": "A website for everything cyber security at University of Akron.",
+  "main": "gulpfile.js",
+  "keywords": [
+      "Akron",
+      "system design",
+      "bootstrap",
+      "design",
+      "google"
+  ],
+  "license": "MIT",
+  "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components"
+  ]
+}
