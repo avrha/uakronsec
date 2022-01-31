@@ -13,6 +13,9 @@ An organized repository is a clean repository. To prevent any clutter or confusi
 The illustration below displays a diagram of the directory layout in use.
 ![Directory Layout](/images/directory-structure.png)
 
+## Sitemap
+Before contributing, refer to uakronsec's [sitemap](https://octopus.do/g6kqz034sx) to familiarize yourself with the website's layout and design.
+
 
 ## Getting Started
 Our tech stack is simple, so setting up a development environment is quick and easy. Our front-end uses [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Bootstrap 5](https://getbootstrap.com/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript). Our back-end uses TBA. Our text editor of choice is Microsoft's [Visual Studio Code](https://code.visualstudio.com/). When in VS Code, install the recommended extensions for our tech stack and run the website locally in a browser.
