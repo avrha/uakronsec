@@ -6,7 +6,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </div>
 
-# About
+## About
 A website for everything cyber security at University of Akron. The development is student led and is the university's first open source project. The domain tied to the website is www.uakronsec.com.  
 
 ## Current State
