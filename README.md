@@ -7,9 +7,7 @@
 </div>
 
 ## Current State
----
 Check the current state of the website at the repo's [Github pages](https://avrha.github.io/uakronsec/).
----
 
 A website for everything cyber security at University of Akron. The development is student led and is the university's first open source project. The domain tied to the website is www.uakronsec.com.  
 
