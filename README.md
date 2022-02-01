@@ -6,17 +6,17 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </div>
 
-## Current State
----
-![Screenshot from 2022-01-31 13-51-52](https://user-images.githubusercontent.com/61941978/151854778-017a721b-ebf0-4a6c-bd99-dba8560644db.png)
----
-
+## About
 A website for everything cyber security at University of Akron. The development is student led and is the university's first open source project. The domain tied to the website is www.uakronsec.com.  
 
+## Current State
+Check the current state of the website at the repo's [Github pages](https://avrha.github.io/uakronsec/).
+
+
 ## Documentation 
-- [Issue Template](https://github.com/avrha/uakronsec/blob/main/docs/ISSUE_TEMPLATE/bug_report.md)
 - [Code of Conduct](https://github.com/avrha/uakronsec/blob/main/docs/CODE_OF_CONDUCT.md)
 - [Contributing](https://github.com/avrha/uakronsec/blob/main/docs/CONTRIBUTING.md)
+- [Issue Template](https://github.com/avrha/uakronsec/blob/main/docs/ISSUE_TEMPLATE/bug_report.md)
 - [Security Policy](https://github.com/avrha/uakronsec/blob/main/docs/SECURITY.md)
 
 
