@@ -17,6 +17,7 @@ Check the current state of the website at the repo's [Github pages](https://avrh
 - [Code of Conduct](https://github.com/avrha/uakronsec/blob/main/docs/CODE_OF_CONDUCT.md)
 - [Contributing](https://github.com/avrha/uakronsec/blob/main/docs/CONTRIBUTING.md)
 - [Issue Template](https://github.com/avrha/uakronsec/blob/main/docs/ISSUE_TEMPLATE/bug_report.md)
+- [License](https://github.com/avrha/uakronsec/blob/main/docs/LICENSE.md)
 - [Security Policy](https://github.com/avrha/uakronsec/blob/main/docs/SECURITY.md)
 
 
