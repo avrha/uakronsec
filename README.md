@@ -4,6 +4,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="JavaScript" width="50" height="50"/>
 </div>
 
 ## About
@@ -17,6 +18,7 @@ Check the current state of the website at the repo's [Github pages](https://avrh
 - [Code of Conduct](https://github.com/avrha/uakronsec/blob/main/docs/CODE_OF_CONDUCT.md)
 - [Contributing](https://github.com/avrha/uakronsec/blob/main/docs/CONTRIBUTING.md)
 - [Issue Template](https://github.com/avrha/uakronsec/blob/main/docs/ISSUE_TEMPLATE/bug_report.md)
+- [License](https://github.com/avrha/uakronsec/blob/main/docs/LICENSE.md)
 - [Security Policy](https://github.com/avrha/uakronsec/blob/main/docs/SECURITY.md)
 
 
